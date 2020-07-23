@@ -1,2 +1,1 @@
- greeting = "Hello World"
- mike = "MTeezy"
+greeting = "Hello World"
